@@ -1,0 +1,8 @@
+Enter the city name: Rishikesh
+-------------------------------------------------------------
+Weather Stats for - RISHIKESH  || 22 Jun 2021 | 01:11:41 PM
+-------------------------------------------------------------
+Current temperature is: 34.33 deg C
+Current weather desc  : clear sky
+Current Humidity      : 42 %
+Current wind speed    : 0.54 kmph
